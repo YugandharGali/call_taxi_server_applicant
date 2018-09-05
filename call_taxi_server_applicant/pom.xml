@@ -3,17 +3,17 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.mytaxi</groupId>
-    <artifactId>mytaxi_server_applicant_test</artifactId>
+    <groupId>com.calltaxi</groupId>
+    <artifactId>calltaxi_server_applicant_test</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>mytaxi_server_applicant_test</name>
+    <name>calltaxi_server_applicant_test</name>
     <description>Test project to check some basic knowledge of server applicants.</description>
 
     <organization>
         <name>Intelligent Apps GmbH</name>
-        <url>http://www.mytaxi.com</url>
+        <url>http://www.calltaxi.com</url>
     </organization>
 
     <parent>

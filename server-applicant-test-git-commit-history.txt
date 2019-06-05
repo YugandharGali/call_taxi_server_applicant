@@ -1,0 +1,65 @@
+commit d2d6c04f50b3aa7f14c09ee5f7635cf42a6c6844
+Author: Gali <yugandhar.gali@gmail.com>
+Date:   Mon Apr 23 20:37:01 2018 +0700
+
+    Implementing jUnit test cases
+
+commit e5230a0642af91c78ca880794f56c5babaffc5b4
+Author: Gali <yugandhar.gali@gmail.com>
+Date:   Mon Apr 23 20:03:33 2018 +0700
+
+    Implementing Basic Security Authentication to the application
+
+commit 5553d9318111313485284e05f031d1bf8f1ff06c
+Author: Gali <yugandhar.gali@gmail.com>
+Date:   Mon Apr 23 19:46:27 2018 +0700
+
+    Driver Controller -> Implement find Drivers By given Characteristics service
+
+commit 75767992f7006690ac1a8a930ebb8910692f8e0b
+Author: Gali <yugandhar.gali@gmail.com>
+Date:   Mon Apr 23 19:19:09 2018 +0700
+
+    Driver Controller -> Implement Select or DeSelect Car service
+
+commit 7d63973af9f2a47997f23d181b1a0cfbe81a9dfa
+Author: Gali <yugandhar.gali@gmail.com>
+Date:   Mon Apr 23 18:55:09 2018 +0700
+
+    Maintaining Car -> Implement find all cars which are not deleted
+
+commit 181fba084b0b6fd48dd2f819c1744c93384248fb
+Author: Gali <yugandhar.gali@gmail.com>
+Date:   Mon Apr 23 18:50:51 2018 +0700
+
+    Maintaining Car -> Implement Update Car, Delete Car services
+
+commit 8bd50b1dd6be6e4dc45399fc464f582f16e45935
+Author: Gali <yugandhar.gali@gmail.com>
+Date:   Mon Apr 23 18:39:20 2018 +0700
+
+    Maintainin Car -> Implement Create car, getcar services
+
+commit a80dc883c268aff3d5f92ef32b6911240c84ffd1
+Author: Gali <yugandhar.gali@gmail.com>
+Date:   Mon Apr 23 18:25:18 2018 +0700
+
+    Add -> Maintaining Cars Controller
+
+commit 72801b3890a65f26567e45cb9505f121c5514f64
+Author: Gali <yugandhar.gali@gmail.com>
+Date:   Mon Apr 23 18:16:51 2018 +0700
+
+    Add CarMapper
+
+commit 62ba9643f3c680b14c863c249e0e48974601cb3b
+Author: Gali <yugandhar.gali@gmail.com>
+Date:   Mon Apr 23 18:00:56 2018 +0700
+
+    Update DriveDO, DriverDTO and Add CarDO, CarDTO, sample queries for car records.
+
+commit 1acc520552067a191dc754780246d7c34b2c8a15
+Author: Bobby Tables <career@mytaxi.com>
+Date:   Fri Feb 16 10:22:46 2018 +0000
+
+    Initital code.
